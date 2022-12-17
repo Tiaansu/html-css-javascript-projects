@@ -22,7 +22,7 @@ body {
 
 .btn {
     background-color: slateblue;
-    border: none;
+    border-color: none;
     padding: 10px 20px;
     margin: 20px;
     color: white;
